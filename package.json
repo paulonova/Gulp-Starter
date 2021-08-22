@@ -1,0 +1,18 @@
+{
+  "name": "gulp-model",
+  "version": "1.0.0",
+  "description": "Gulp starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "minimist": "^1.2.5",
+    "node-sass": "^6.0.1",
+    "sass": "^1.38.0"
+  }
+}
