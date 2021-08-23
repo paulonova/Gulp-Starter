@@ -1,5 +1,16 @@
+.contact {
+  width: 450px;
+}
+
 body {
   width: 90%;
   margin: auto;
   background-color: tomato;
+}
+
+.card {
+  font-size: 22px;
+}
+.card .card-item {
+  color: blue;
 }

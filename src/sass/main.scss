@@ -1,5 +1,3 @@
-body{
-  width: 90%;
-  margin: auto;
-  background-color: tomato; 
-}
+@import './pages/contact';
+@import './common';
+@import './widgets';
